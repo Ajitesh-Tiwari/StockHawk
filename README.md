@@ -1,5 +1,7 @@
 # StockHawk - Udacity Android Nanodegree
 
+[![Available On Playstore](https://ajitesh-tiwari.github.io/Extras/Google-Play-button.png)](https://play.google.com/store/apps/details?id=com.ajitesh.android.stockhawk)
+
 ##Project Overview
 
 You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
